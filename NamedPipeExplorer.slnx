@@ -1,0 +1,10 @@
+<Solution>
+  <Configurations>
+    <Platform Name="Any CPU" />
+    <Platform Name="x64" />
+  </Configurations>
+  <Folder Name="/Solution Items/" />
+  <Project Path="NamedPipeExplorer.csproj" Id="761c371d-46d9-4b63-9208-6c6a5a3ae0cc">
+    <Platform Solution="*|x64" Project="x64" />
+  </Project>
+</Solution>
